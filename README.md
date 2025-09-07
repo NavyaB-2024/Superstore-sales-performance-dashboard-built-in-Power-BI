@@ -5,7 +5,7 @@ This project analyzes sales performance using the Superstore dataset.
 The dashboard provides insights into sales, profit, and customer behavior across categories, regions, and time.
 
 Dataset Details:
-Source: [Superstore Sales Dataset](SuperStore_Sales_Dataset.csv)
+Name: Superstore sales dataset
 Rows: 5,901
 Columns: 23
 Sample Columns:
