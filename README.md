@@ -9,6 +9,7 @@ Name: Superstore sales dataset
 Rows: 5,901
 Columns: 23
 Sample Columns:
+
 Order ID, Order Date, Ship Date, Ship Mode
 Customer ID, Customer Name, Segment, Region, State
 Category, Sub-Category, Sales, Quantity, Profit
