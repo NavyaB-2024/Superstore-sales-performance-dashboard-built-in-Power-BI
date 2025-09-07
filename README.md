@@ -23,7 +23,9 @@ Category, Sub-Category, Sales, Quantity, Profit
 Tools Used:
 
 Power BI Desktop – Dashboard & Visualizations
+
 Power Query – Data Cleaning and Transformation
+
 CSV Dataset – Raw Data Source
 
 Dashboard Features:
